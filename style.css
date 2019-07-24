@@ -30,7 +30,7 @@ p, a {
 
 .card {
   margin: 20px auto;
-  padding: 20px;
+  padding: 20px 20px 10px 20px;
   box-shadow: 0px .5px 20px #96AEA7;
 }
 
@@ -40,7 +40,7 @@ p, a {
 }
 
 .img-card-v {
-  width: 70%;
+  width: 30%;
 }
 
 .img-card-h {
